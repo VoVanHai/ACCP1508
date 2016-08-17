@@ -10,6 +10,9 @@ namespace Session02
     {
         static void Main(string[] args)
         {
+            Doanso ds = new Doanso();
+            ds.gameEngine();
+            Console.ReadKey();
         }
     }
 }
