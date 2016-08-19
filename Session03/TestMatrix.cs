@@ -16,6 +16,7 @@ namespace Session03
         {
             Random rnd = new Random();
             int[,] a = new int[3, 4];
+            Console.WriteLine("so phan tu cua mang la {0}", a.Length);
             for (int i = 0; i < a.GetLength(0)/*số dòng*/; i++)
             {
                 for (int j = 0; j < a.GetLength(1)/*số cột*/; j++)
