@@ -34,7 +34,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Session03.BaitapMang</StartupObject>
+    <StartupObject>Session03.TestMatrix</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -45,6 +45,7 @@
     <Compile Include="ArrayDemo.cs" />
     <Compile Include="BaitapMang.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TestMatrix.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

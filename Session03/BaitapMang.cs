@@ -107,7 +107,6 @@ namespace Session03
             int mo = btm.getItemMaxOccurs(a,ref solan);
             Console.WriteLine("{0} xuat hien nhieu nhat vói {1} lan"
                 ,mo,solan);
-
             Console.ReadKey();
         }
     }
