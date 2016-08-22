@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Session03
+﻿namespace Session03
 {
     class TestRef
     {
