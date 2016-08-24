@@ -32,6 +32,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>Session05.prop_index.Employee</StartupObject>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -51,6 +54,9 @@
     <Compile Include="NhanMa.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="prop_index\Account.cs" />
+    <Compile Include="prop_index\Employee.cs" />
+    <Compile Include="prop_index\SavingAccount.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
