@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.25123.0
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Session01", "Session01\Session01.csproj", "{F67DCF02-54B8-4CAE-A891-4BC95A742D95}"
 EndProject
@@ -14,6 +14,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Session05", "Session05\Session05.csproj", "{35E8B29D-A2C1-4A44-B84B-61C76CA7E565}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Baitap", "Baitap\Baitap.csproj", "{9B50D181-920D-4FD3-B402-E0BD4D267DD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Session06", "Session06\Session06.csproj", "{FF3B9DF1-8B96-46DA-8C7A-D4A42CB4EAF8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{9B50D181-920D-4FD3-B402-E0BD4D267DD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B50D181-920D-4FD3-B402-E0BD4D267DD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B50D181-920D-4FD3-B402-E0BD4D267DD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF3B9DF1-8B96-46DA-8C7A-D4A42CB4EAF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF3B9DF1-8B96-46DA-8C7A-D4A42CB4EAF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF3B9DF1-8B96-46DA-8C7A-D4A42CB4EAF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF3B9DF1-8B96-46DA-8C7A-D4A42CB4EAF8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
