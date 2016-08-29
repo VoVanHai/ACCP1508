@@ -4,7 +4,7 @@ namespace Session06
 {
     internal class InvalidRecValues : Exception
     {
-        public InvalidRecValues()
+        public InvalidRecValues():base()
         {
         }
 

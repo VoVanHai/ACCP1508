@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Baitap", "Baitap\Baitap.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Session06", "Session06\Session06.csproj", "{FF3B9DF1-8B96-46DA-8C7A-D4A42CB4EAF8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Session07", "Session07\Session07.csproj", "{C440B805-61FC-4ACC-8CEE-279A3F3083A1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{FF3B9DF1-8B96-46DA-8C7A-D4A42CB4EAF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF3B9DF1-8B96-46DA-8C7A-D4A42CB4EAF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF3B9DF1-8B96-46DA-8C7A-D4A42CB4EAF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C440B805-61FC-4ACC-8CEE-279A3F3083A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C440B805-61FC-4ACC-8CEE-279A3F3083A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C440B805-61FC-4ACC-8CEE-279A3F3083A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C440B805-61FC-4ACC-8CEE-279A3F3083A1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
