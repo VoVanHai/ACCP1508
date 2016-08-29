@@ -32,6 +32,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>Session07.collection.mydictionary.DictionaryUI</StartupObject>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -43,12 +46,20 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="collection\DemoCol.cs" />
+    <Compile Include="collection\DemoColsGeneric.cs" />
+    <Compile Include="collection\Employee.cs" />
+    <Compile Include="collection\mydictionary\DictionaryUI.cs" />
+    <Compile Include="collection\mydictionary\MyDictionary.cs" />
+    <Compile Include="collection\mydictionary\MyWord.cs" />
+    <Compile Include="del\MathsFucntions.cs" />
+    <Compile Include="del\TestEvent.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

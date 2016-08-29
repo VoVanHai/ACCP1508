@@ -4,12 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Session07
+namespace Session07.collection
 {
-    class Program
+    class Employee
     {
-        static void Main(string[] args)
-        {
-        }
     }
 }
