@@ -12,12 +12,17 @@ namespace Session08
             //number = 10;
             //....
 
+            //nếu number có giá trị thì gán giá trị của number cho x 
+            //còn không gán 0.0 cho x
+            double x = number ?? 0.0;
+
             //kiểm tra kiểu nullable có giá trị chưa
             if(number.HasValue)
                 Console.WriteLine(number);
             else
                 Console.WriteLine("number has no value");
 
+            Console.WriteLine(x);
             Console.ReadKey();
         }
     }
