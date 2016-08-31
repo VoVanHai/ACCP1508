@@ -1,11 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Session06.dataaccess
 {
+    [Serializable]
     public class InvalidDOBException:Exception
     {
         private string msg;
